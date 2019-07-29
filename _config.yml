@@ -25,6 +25,7 @@ github_username:  alexdavos
 # Build settings
 markdown: kramdown
 remote_theme: pages-themes/midnight 
+theme: midnight
 #theme: minima
 plugins:
   - jekyll-feed
