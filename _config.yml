@@ -17,8 +17,8 @@ title: Alex Davos
 email: alex@witchey.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Alex's learning log on a journey of tech knowledge.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://alexdavos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  alexdavos
 
