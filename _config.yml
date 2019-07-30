@@ -24,7 +24,6 @@ github_username:  alexdavos
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/midnight 
 theme: jekyll-theme-time-machine
 #theme: minima
 plugins:
